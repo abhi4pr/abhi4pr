@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek Singh 👋  
-### MERN Stack Developer | React • Node • Next.js • MongoDB | 5+ Years Experience
+### MERN Stack Developer | React • Node • Next.js • MongoDB • PHP/Mysql | 5+ Years Experience
 
 I’m a full stack developer with extensive experience in the MERN stack, along with past work in PHP, WordPress, and CodeIgniter.  
 I build scalable, maintainable, and production-ready applications, and have deployed projects using both AWS EC2 and Google Cloud Platform (GCP).  
@@ -70,12 +70,12 @@ I’ve also worked with CI/CD pipelines, VM instances, and App Engine setups.
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhi4pr&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4pr&layout=compact&theme=default)
 
 ---
 
 ## 📫 Connect With Me
 - **Email:** ascs739@gmail.com  
-- **LinkedIn:** your-link  
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-616634ba
